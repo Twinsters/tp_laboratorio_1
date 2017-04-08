@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1491570621 source:c:\users\claudio\desktop\asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.c"
+
+1491570686 c:\users\claudio\desktop\asd\funciones.h
+
+1491617696 c:\users\claudio\desktop\asd\funciones.c
+	"funciones.h"
+
